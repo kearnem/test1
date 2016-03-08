@@ -1,0 +1,3 @@
+mkdir ~kearnem
+cd ~kearnem
+git init
